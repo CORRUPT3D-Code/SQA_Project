@@ -7,7 +7,7 @@
 Install [`uv`](https://docs.astral.sh/uv/getting-started/installation/#installation-methods) (Python ≥ 3.14 required).
 
 ```bash
-git clone https://github.com/Corrupted-Code/SQA_Project.git
+git clone https://github.com/CORRUPT3D-Code/SQA_Project.git
 cd SQA_Project
 uv run sqa server start
 ```
