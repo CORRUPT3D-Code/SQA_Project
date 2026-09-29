@@ -1,0 +1,3 @@
+username: meow_meow_17
+password: bag3lf1ed_p3pp3rs_5
+account_type: admin
