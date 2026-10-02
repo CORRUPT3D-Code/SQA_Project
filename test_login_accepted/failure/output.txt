@@ -1,0 +1,5 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Error: User Meow_Meow_17 does not exist.
+Enter a command:

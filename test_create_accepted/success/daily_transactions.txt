@@ -1,0 +1,3 @@
+01 new_gamer       FS 000000.00
+01 fifteen_chars_x BS 000000.00
+00 meow_meow_17    AA 000500.00

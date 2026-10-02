@@ -1,0 +1,2 @@
+01 fresh_player    SS 000000.00
+00 meow_meow_17    AA 000500.00

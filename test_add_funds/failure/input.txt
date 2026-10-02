@@ -1,0 +1,6 @@
+login
+player_one
+buy
+Space Raiders
+buyer_bea
+logout

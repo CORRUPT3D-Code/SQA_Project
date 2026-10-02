@@ -1,0 +1,11 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter amount of credit to add:
+Enter username:
+Error: User nobody_here does not exist.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

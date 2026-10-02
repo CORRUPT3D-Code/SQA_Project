@@ -1,0 +1,10 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome player_one (full-standard).
+Enter a command:
+Enter amount of credit to add:
+Error: Invalid amount abc.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

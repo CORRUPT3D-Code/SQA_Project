@@ -1,0 +1,17 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter new username:
+Error: Username must be at most 15 characters.
+Enter a command:
+Enter new username:
+Error: Username player_one already exists.
+Enter a command:
+Enter new username:
+Enter user type (admin, full-standard, buy-standard, sell-standard):
+Error: Invalid user type gold-member.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

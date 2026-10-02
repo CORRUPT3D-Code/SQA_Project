@@ -1,0 +1,18 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome player_one (full-standard).
+Enter a command:
+Enter game name:
+Enter price:
+Star Forge is now for sale at $25.00.
+Enter a command:
+Enter game name:
+Enter seller's username:
+Purchase successful: Space Raiders bought from seller_sam for $20.00.
+$20.00 deducted from your account. New balance: $180.00.
+$20.00 credited to seller_sam.
+Space Raiders added to your collection.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

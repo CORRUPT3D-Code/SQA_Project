@@ -1,0 +1,9 @@
+login
+meow_meow_17
+create
+new_gamer
+full-standard
+create
+fifteen_chars_x
+buy-standard
+logout

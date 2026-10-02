@@ -1,0 +1,10 @@
+login
+meow_meow_17
+create
+sixteen_chars_xx
+create
+player_one
+create
+new_gamer
+gold-member
+logout

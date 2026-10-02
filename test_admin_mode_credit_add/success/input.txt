@@ -1,0 +1,6 @@
+login
+meow_meow_17
+addcredit
+250.00
+player_one
+logout

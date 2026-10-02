@@ -1,0 +1,14 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Error: You must log in first.
+Enter a command:
+Enter username:
+Error: User ghost_user does not exist.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Error: You are already logged in.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:
