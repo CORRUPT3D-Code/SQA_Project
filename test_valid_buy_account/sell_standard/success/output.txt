@@ -1,0 +1,13 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome seller_sam (sell-standard).
+Enter a command:
+Error: sell-standard accounts cannot buy games.
+Enter a command:
+Enter game name:
+Enter price:
+Neon Drift is now for sale at $30.00.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

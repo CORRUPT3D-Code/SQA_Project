@@ -1,0 +1,5 @@
+login
+player_one
+addcredit
+50.00
+logout

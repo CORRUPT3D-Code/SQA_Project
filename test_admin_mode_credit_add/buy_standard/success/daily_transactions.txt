@@ -1,0 +1,2 @@
+06 buyer_bea       BS 000025.00
+00 buyer_bea       BS 000075.00

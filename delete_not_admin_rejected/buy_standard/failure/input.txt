@@ -1,0 +1,5 @@
+login
+buyer_bea
+delete
+player_one
+logout

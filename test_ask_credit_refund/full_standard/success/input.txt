@@ -1,0 +1,6 @@
+login
+player_one
+refund
+addcredit
+10.00
+logout

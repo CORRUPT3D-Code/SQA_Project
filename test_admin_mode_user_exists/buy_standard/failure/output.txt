@@ -1,0 +1,12 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Enter amount of credit to add:
+$40.00 added to your account. New balance: $90.00.
+Enter a command:
+Error: Unknown command nobody_here.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

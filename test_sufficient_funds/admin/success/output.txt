@@ -1,0 +1,14 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter game name:
+Enter seller's username:
+Purchase successful: Titan Wars bought from seller_sam for $120.00.
+$120.00 deducted from your account. New balance: $380.00.
+$120.00 credited to seller_sam.
+Titan Wars added to your collection.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

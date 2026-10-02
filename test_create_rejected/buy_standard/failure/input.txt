@@ -1,0 +1,6 @@
+login
+buyer_bea
+create
+fresh_player
+sell-standard
+logout

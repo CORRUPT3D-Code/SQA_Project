@@ -1,0 +1,6 @@
+login
+buyer_bea
+create
+new_gamer
+full-standard
+logout

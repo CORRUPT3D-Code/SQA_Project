@@ -1,0 +1,5 @@
+login
+meow_meow_17
+addcredit
+abc
+logout

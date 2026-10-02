@@ -1,0 +1,5 @@
+login
+seller_sam
+addcredit
+$50
+logout

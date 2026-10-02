@@ -1,0 +1,7 @@
+01 new_gamer       FS 000000.00
+06 player_one      FS 000100.00
+05 buyer_bea       seller_sam      000005.00
+04 Space Raiders              seller_sam      meow_meow_17    020.00
+03 Moon Base                  meow_meow_17    012.00
+02 buyer_bea       BS 000055.00
+00 meow_meow_17    AA 000480.00

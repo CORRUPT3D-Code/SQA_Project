@@ -1,0 +1,5 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Error: User Player_One does not exist.
+Enter a command:

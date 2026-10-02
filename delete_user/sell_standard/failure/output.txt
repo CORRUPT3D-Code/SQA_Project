@@ -1,0 +1,11 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome seller_sam (sell-standard).
+Enter a command:
+Error: delete is a privileged transaction (admin only).
+Enter a command:
+Error: Unknown command buyer_bea.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

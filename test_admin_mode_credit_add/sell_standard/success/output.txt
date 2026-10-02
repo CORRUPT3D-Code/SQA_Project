@@ -1,0 +1,10 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome seller_sam (sell-standard).
+Enter a command:
+Enter amount of credit to add:
+$25.00 added to your account. New balance: $1025.00.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

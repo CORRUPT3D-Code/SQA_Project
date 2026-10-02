@@ -1,0 +1,13 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Error: buy-standard accounts cannot sell games.
+Enter a command:
+Error: Unknown command Mystery of the Old Lights.
+Enter a command:
+Error: Unknown command 22.00.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

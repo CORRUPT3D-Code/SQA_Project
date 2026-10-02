@@ -1,0 +1,7 @@
+login
+meow_meow_17
+delete
+player_one
+delete
+player_one
+logout

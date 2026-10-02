@@ -1,0 +1,5 @@
+login
+seller_sam
+delete
+seller_sam
+logout

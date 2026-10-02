@@ -1,0 +1,10 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Enter game name:
+Error: Game Space Raider is not available for purchase.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

@@ -1,0 +1,7 @@
+sell
+login
+seller_sammy
+login
+seller_sam
+login
+logout

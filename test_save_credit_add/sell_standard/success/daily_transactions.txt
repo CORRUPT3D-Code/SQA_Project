@@ -1,0 +1,2 @@
+06 seller_sam      SS 000500.00
+00 seller_sam      SS 001500.00

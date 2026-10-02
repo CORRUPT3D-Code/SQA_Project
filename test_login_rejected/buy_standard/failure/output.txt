@@ -1,0 +1,14 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Error: You must log in first.
+Enter a command:
+Enter username:
+Error: User buyer_be does not exist.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Error: You are already logged in.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

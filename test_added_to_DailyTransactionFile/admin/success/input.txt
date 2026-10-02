@@ -1,0 +1,21 @@
+login
+meow_meow_17
+create
+new_gamer
+full-standard
+addcredit
+100.00
+player_one
+refund
+buyer_bea
+seller_sam
+5.00
+buy
+Space Raiders
+seller_sam
+sell
+Moon Base
+12.00
+delete
+buyer_bea
+logout

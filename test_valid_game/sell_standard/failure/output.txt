@@ -1,0 +1,13 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome seller_sam (sell-standard).
+Enter a command:
+Error: sell-standard accounts cannot buy games.
+Enter a command:
+Error: Unknown command Space Raiders.
+Enter a command:
+Error: Unknown command seller_sam.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

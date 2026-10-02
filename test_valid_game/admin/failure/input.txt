@@ -1,0 +1,8 @@
+login
+meow_meow_17
+sell
+Moon Base
+12.00
+buy
+Moon Base
+logout

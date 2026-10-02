@@ -1,0 +1,7 @@
+addcredit
+login
+player_two
+login
+player_one
+login
+logout

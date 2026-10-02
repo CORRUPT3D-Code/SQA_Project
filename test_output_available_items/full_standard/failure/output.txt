@@ -1,0 +1,4 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Error: You must log in first.
+Enter a command:

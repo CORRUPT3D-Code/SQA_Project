@@ -1,0 +1,14 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome player_one (full-standard).
+Enter a command:
+Enter game name:
+Enter seller's username:
+Purchase successful: Castle Siege bought from seller_sam for $200.00.
+$200.00 deducted from your account. New balance: $0.00.
+$200.00 credited to seller_sam.
+Castle Siege added to your collection.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

@@ -1,0 +1,11 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter game name:
+Enter price:
+Penny Arcade is now for sale at $0.01.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

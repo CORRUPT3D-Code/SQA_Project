@@ -1,0 +1,2 @@
+06 player_one      FS 000050.00
+00 player_one      FS 000250.00

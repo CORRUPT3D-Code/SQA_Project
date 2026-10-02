@@ -1,0 +1,9 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Error: create is a privileged transaction (admin only).
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

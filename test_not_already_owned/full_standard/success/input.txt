@@ -1,0 +1,6 @@
+login
+player_one
+buy
+Pixel Quest
+seller_sam
+logout

@@ -1,0 +1,11 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter new username:
+Enter user type (admin, full-standard, buy-standard, sell-standard):
+User new_gamer created.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

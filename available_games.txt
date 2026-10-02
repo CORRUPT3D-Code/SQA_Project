@@ -1,4 +1,8 @@
 Space Raiders              seller_sam      020.00
 Pixel Quest                seller_sam      015.00
 Dungeon Delve              seller_sam      035.50
+Ocean Odyssey              seller_sam      050.00
+Titan Wars                 seller_sam      120.00
+Castle Siege               seller_sam      200.00
+Dragon Realm               seller_sam      750.00
 END                                              

@@ -1,0 +1,9 @@
+login
+meow_meow_17
+addcredit
+1000.00
+buyer_bea
+addcredit
+1000.00
+seller_sam
+logout

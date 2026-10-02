@@ -1,0 +1,6 @@
+login
+player_one
+create
+new_gamer
+full-standard
+logout

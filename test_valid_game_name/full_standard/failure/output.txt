@@ -1,0 +1,10 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome player_one (full-standard).
+Enter a command:
+Enter game name:
+Error: Game name must be at most 25 characters.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

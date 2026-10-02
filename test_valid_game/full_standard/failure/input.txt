@@ -1,0 +1,5 @@
+login
+player_one
+buy
+Starfield Quest
+logout

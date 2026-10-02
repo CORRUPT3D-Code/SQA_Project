@@ -1,0 +1,9 @@
+login
+meow_meow_17
+addcredit
+700.00
+player_one
+addcredit
+400.00
+player_one
+logout

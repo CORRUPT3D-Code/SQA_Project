@@ -1,0 +1,35 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter new username:
+Enter user type (admin, full-standard, buy-standard, sell-standard):
+User new_gamer created.
+Enter a command:
+Enter amount of credit to add:
+Enter username:
+$100.00 added to player_one.
+Enter a command:
+Enter buyer's username:
+Enter seller's username:
+Enter amount of credit to transfer:
+Refund successful: $5.00 transferred from seller_sam to buyer_bea.
+buyer_bea balance: $55.00. seller_sam balance: $995.00.
+Enter a command:
+Enter game name:
+Enter seller's username:
+Purchase successful: Space Raiders bought from seller_sam for $20.00.
+$20.00 deducted from your account. New balance: $480.00.
+$20.00 credited to seller_sam.
+Space Raiders added to your collection.
+Enter a command:
+Enter game name:
+Enter price:
+Moon Base is now for sale at $12.00.
+Enter a command:
+Enter username to delete:
+User buyer_bea deleted.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

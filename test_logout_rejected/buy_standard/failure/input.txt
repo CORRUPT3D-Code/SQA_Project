@@ -1,0 +1,5 @@
+logout
+login
+buyer_bea
+logout
+logout

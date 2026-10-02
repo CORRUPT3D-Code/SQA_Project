@@ -1,0 +1,5 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Error: User Seller_Sam does not exist.
+Enter a command:

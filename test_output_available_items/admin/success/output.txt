@@ -1,0 +1,16 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Games available for purchase:
+Space Raiders - sold by seller_sam - $20.00
+Pixel Quest - sold by seller_sam - $15.00
+Dungeon Delve - sold by seller_sam - $35.50
+Ocean Odyssey - sold by seller_sam - $50.00
+Titan Wars - sold by seller_sam - $120.00
+Castle Siege - sold by seller_sam - $200.00
+Dragon Realm - sold by seller_sam - $750.00
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

@@ -1,0 +1,5 @@
+login
+buyer_bea
+addcredit
+1000.00
+logout

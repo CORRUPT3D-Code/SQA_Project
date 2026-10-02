@@ -1,0 +1,14 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter game name:
+Enter seller's username:
+Purchase successful: Ocean Odyssey bought from seller_sam for $50.00.
+$50.00 deducted from your account. New balance: $450.00.
+$50.00 credited to seller_sam.
+Ocean Odyssey added to your collection.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

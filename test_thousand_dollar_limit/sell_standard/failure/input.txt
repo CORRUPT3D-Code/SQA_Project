@@ -1,0 +1,7 @@
+login
+seller_sam
+addcredit
+1000.00
+addcredit
+0.01
+logout

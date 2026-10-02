@@ -1,0 +1,15 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Error: refund is a privileged transaction (admin only).
+Enter a command:
+Error: Unknown command player_one.
+Enter a command:
+Error: Unknown command seller_sam.
+Enter a command:
+Error: Unknown command 25.00.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

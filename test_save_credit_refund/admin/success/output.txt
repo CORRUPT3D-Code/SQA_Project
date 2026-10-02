@@ -1,0 +1,13 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome meow_meow_17 (admin).
+Enter a command:
+Enter buyer's username:
+Enter seller's username:
+Enter amount of credit to transfer:
+Refund successful: $15.00 transferred from seller_sam to buyer_bea.
+buyer_bea balance: $65.00. seller_sam balance: $985.00.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

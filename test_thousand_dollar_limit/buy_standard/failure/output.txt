@@ -1,0 +1,10 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Enter amount of credit to add:
+Error: A maximum of $1000.00 can be added to an account per session. You can add up to $1000.00 more.
+Enter a command:
+Logout successful. Daily transaction file written.
+Enter a command:

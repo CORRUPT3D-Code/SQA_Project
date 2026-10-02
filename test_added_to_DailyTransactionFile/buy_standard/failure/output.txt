@@ -1,0 +1,12 @@
+Welcome to the Game Distribution System.
+Enter a command:
+Enter username:
+Login successful. Welcome buyer_bea (buy-standard).
+Enter a command:
+Enter game name:
+Enter seller's username:
+Purchase successful: Space Raiders bought from seller_sam for $20.00.
+$20.00 deducted from your account. New balance: $30.00.
+$20.00 credited to seller_sam.
+Space Raiders added to your collection.
+Enter a command:
